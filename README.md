@@ -12,6 +12,6 @@ One: Create AssociateProfitSplitter contract. This will accept Ether into the co
 
 Upon making the creating the contract, I made an transaction with one ethereum to make sure it's working properly.
 
-<img src="https://user-images.githubusercontent.com/62320593/97825932-1fd63d80-1c8e-11eb-85ad-a902e13970d3.png" width="700" height="300"/>
+<img src="https://user-images.githubusercontent.com/62320593/99929757-631b4d80-2d1c-11eb-9bc6-db102561c6f2.png" width="700" height="300"/>
 
 
